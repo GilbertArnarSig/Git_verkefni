@@ -2,29 +2,30 @@
 
 
 1. Hvað gera eftirfarandi Linux skipanir?
-	cd - breytir um möppu
+	cd - Fer með þig á byrjunar möppuna
 	cd ~ - Fer með þig á byrjunar möppuna
-	ls - sýnir innihald möppunar
-	pwd - sýnir hvar þú ert stadur
-	mkdir - býr til nýja möppu
+	ls - Sýnir innihald möppunar
+	pwd - Sýnir hvar þú ert stadur
+	mkdir - Býr til nýja möppu
 
 2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
-	git clone
-	git log
-	git status
-	git diff
-	git checkout
+	git clone - Gerir git geymslu afrit af ytri aðilum.
+	git log - Sýnir lista af commits
+	git status - Sýnir þér stöðu á skrá
+	git diff - Býr til patch skrár eða statistics á muninnum á path eða files inní git geymsluni eða index eða working directory
+	git checkout - Tékkar út mismunandi útibú
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff Show changes between the working tree and the index or a tree, changes between the index and a tree, changes between two trees, changes between two blob objects, or changes between two files on disk.
+	b) git diff --staged - This form is to view the changes you staged for the next commit relative to the named
+	c) git diff commit1 commit2 - This is to view the changes between two arbitrary 
 
-4. 	Hvað er útgáfustýring (e.version control)? 
+4. 	Hvað er útgáfustýring (e.version control)? útgáfustýring er kerfi
+	sem heldur utan um breytingar á skrá eða skrám yfir tíma svo þú getur afturkallað sérstaka útgáfu seina.
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 
-6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? - Því meiri commit sem þú gerir því betra verður það í framtíðini ef þú þarft að fara yfir aftur hvað þú varst að hugsa/gera á þessum tíma
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
