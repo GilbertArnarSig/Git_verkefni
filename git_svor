@@ -23,7 +23,7 @@
 4. 	Hvað er útgáfustýring (e.version control)? útgáfustýring er kerfi
 	sem heldur utan um breytingar á skrá eða skrám yfir tíma svo þú getur afturkallað sérstaka útgáfu seina.
 
-5.	Hverjir eru helstu kostir við að nota GIT?
+5.	Hverjir eru helstu kostir við að nota GIT? - git leyfir þér gera "branch" til að testa kóða, þú getur verið með eins mörg "branch" og þú vilt. git leyfir þér að vista allar útgáfur að síðuni þinni dag eftir dag, þú getur farið aftur á yngri útgáfu fljót.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? - Því meiri commit sem þú gerir því betra verður það í framtíðini ef þú þarft að fara yfir aftur hvað þú varst að hugsa/gera á þessum tíma
 
