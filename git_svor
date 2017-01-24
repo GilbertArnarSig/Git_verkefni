@@ -27,7 +27,7 @@
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu? - Því meiri commit sem þú gerir því betra verður það í framtíðini ef þú þarft að fara yfir aftur hvað þú varst að hugsa/gera á þessum tíma
 
-7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT? "Working directory" er mappan sem þú ert að vinna í, "Stagin area" er staðurinn sem hlutirnir sem þú ert að vinna í fara áður en þeir fara á aðal staðinn, "Repository" er bara mappa undir files og þanig.
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
